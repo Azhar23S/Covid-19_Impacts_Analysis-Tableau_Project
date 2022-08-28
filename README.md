@@ -19,6 +19,9 @@ I have explored the covid dataset which contains the Global impacts of the virus
 Tableau <img src="https://iconape.com/wp-content/png_logo_vector/tableau-software.png" alt="tableau" width="15" height="15"/>
 
 # Project - Covid-19 Impact Analysis 📊
+
+Dataset: <code>[Covid-19 Dataset](https://github.com/Azhar23S/Covid-19_Impacts_Analysis-Tableau_Project/blob/main/covid19_data.csv)</code>
+
 <h2 align="center"><b>Covid-19 Impacts all over the World</b></h2>
 
 1. Total Cases all over the World <p align="center"><img src="https://github.com/Azhar23S/Covid-19_Impacts_Analysis-Tableau_Project/blob/main/Total%20Cases%20all%20over%20World.png"/></p>
